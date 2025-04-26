@@ -3,10 +3,10 @@
 
 ##
 <a href="https://github.com/Akigumo0411/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akigumo0411&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/Akigumo0411/Akigumo0411.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akigumo0411&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 ## GitHub Summaries
