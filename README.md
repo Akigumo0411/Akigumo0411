@@ -1,6 +1,14 @@
 ## Hi there 👋
 ## I'm Akigumo0411!!
 
+##
+<a href="https://github.com/Akigumo0411/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/Akigumo0411/Akigumo0411.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
 ## GitHub Summaries
 
 ![https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akigumo0411&theme=discord_old_blurple](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akigumo0411&theme=discord_old_blurple) 
