@@ -1,7 +1,11 @@
 ## Hi there 👋
 ## I'm Akigumo0411!!
 
-![https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akigumo0411&theme=discord_old_blurple](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akigumo0411&theme=discord_old_blurple) ![https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akigumo0411&theme=discord_old_blurple&exclude=](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akigumo0411&theme=discord_old_blurple&exclude=) ![https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akigumo0411&theme=discord_old_blurple&exclude=](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akigumo0411&theme=discord_old_blurple&exclude=) ![https://github-profile-trophy.vercel.app/?username=Akigumo0411&theme=nord](https://github-profile-trophy.vercel.app/?username=Akigumo0411&theme=nord)  
+## GitHub Summaries
+
+![https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akigumo0411&theme=discord_old_blurple](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akigumo0411&theme=discord_old_blurple) 
+![https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akigumo0411&theme=discord_old_blurple&exclude=](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akigumo0411&theme=discord_old_blurple&exclude=) 
+![https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akigumo0411&theme=discord_old_blurple&exclude=](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akigumo0411&theme=discord_old_blurple&exclude=) 
 
 <!--
 **Akigumo0411/Akigumo0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
