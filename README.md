@@ -10,4 +10,4 @@
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,gmail,notion)](https://skillicons.dev)
 ### OS
-[![OS](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=windows,ubuntu,mint)](https://skillicons.dev)
